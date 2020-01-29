@@ -1,4 +1,4 @@
 <?php
 
-$request = 'xxx';
-$useragent = 'xxx';
+$request = '{"articleId":"40282","isOutsideWakeup":"0","Infversion":"1.0","Key":"8ZZR9k8A0ejWg1pmubYuSXtOpIXdY8xtUGu21Oo0fu1jCpp4ksQQXQ==","Method":"getArticlePageDetail","UID":"1580272523565","appVersion":"1.02","country":"Singapore","devCode":"5A870D4855511453ABB974D1C62560405CD2D802","i18n":"en_US","sourceOrigin":"GooglePlay","systemType":"1","userId":"HI2SL75R0QC9YHEG8VU01CUXRN5S4TPMwKfZ0hAEnI8/KIFdHT8dK1/As7+CqNHcDfbNEX5d0i0hf57BgE2OT8uTMitTMcO+KzAg3i9Rc0+TkJK9iMxewblsApSxmbUwAAAA="}';
+$useragent = 'Android/xiaomi/Android/7.1.2/guaguazhuan/1.02/WeviralOnline/862111034337800/10.1.10.1/com.sky.sea.weviral/02:0A:F5:8B:58:38/AArch64 Processor rev 4 (aarch64)//194628099/37604/WIFI/5A870D4855511453ABB974D1C62560405CD2D802/295c784bb219f0bc/4fa2d60e/bba03ce51f40766a15ae76fd4bd30519';
